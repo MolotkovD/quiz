@@ -1,5 +1,5 @@
 {
-"version":"0.1",
+"version":"0.2",
 
 
 
@@ -7,7 +7,7 @@
   "squadName": "Super hero squad",
   "homeTown": "Metro City",
   "formed": 2016,
-  "secretBase": "Super tower",
+  "secretBase": "Supsaddsadsaer tower",
   "active": true,
   "members": [
     {
@@ -15,7 +15,7 @@
       "age": 29,
       "secretIdentity": "Dan Jukes",
       "powers": [
-        "Radiation resistance",
+        "Radiation residassaddsastance",
         "Turning tiny",
         "Radiation blast"
       ]
@@ -25,7 +25,7 @@
       "age": 39,
       "secretIdentity": "Jane Wilson",
       "powers": [
-        "Million tonne punch",
+        "Million tonne saasdsadpunch",
         "Damage resistance",
         "Superhuman reflexes"
       ]
